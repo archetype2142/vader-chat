@@ -1,4 +1,4 @@
-##NodeJS Chat (MIT License)
+##Vader Chat (MIT License)
 
 A node js chat app using web sockets (socket.io)
 
