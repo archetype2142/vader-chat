@@ -2,7 +2,7 @@
 
 A node js chat app using web sockets (socket.io)
 
-view live [VaderChat](vaderchat.herokuapp.com)
+view live [VaderChat](http://vaderchat.herokuapp.com)
 
 ##Run Locally
 
